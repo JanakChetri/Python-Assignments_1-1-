@@ -1,2 +1,2 @@
-# Python-Assignments_1-1-
-First python assignments
+# Python-Assignments_1(1)(2)(3)
+ Python assignments
