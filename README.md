@@ -1,2 +1,3 @@
-# Python-Assignments_1(1)(2)(3)
- Python assignments
+# PYTHON-ASSIGNMENTS
+ Python assignment_1
+ Python assignment_2(13/12/20)
